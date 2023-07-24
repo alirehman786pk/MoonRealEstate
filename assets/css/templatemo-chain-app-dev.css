@@ -126,8 +126,8 @@ ul {
 p {
   font-size: 15px;
   line-height: 30px;
-  font-weight: 300;
-  color: #afafaf;
+  font-weight: 500;
+  color: #000000;
 }
 
 img {
@@ -927,8 +927,8 @@ Banner Style
 
 .main-banner .left-content p {
   margin-bottom: 45px;
-  color: #2a2a2a;
-  font-weight: 400;
+  font-weight: 500;
+  color: #000000;
 }
 
 .main-banner .left-content .first-button {
@@ -1984,9 +1984,10 @@ responsive
     margin-right: 0;
   }
   .main-banner .left-content p {
-    color: #afafaf;
+    color: #000000;    
     margin-right: 0;
   }
+  
   .main-banner .left-content .white-button a {
     background-color: #4b8ef1;
     color: #fff !important;
